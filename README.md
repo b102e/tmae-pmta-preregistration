@@ -14,6 +14,11 @@ This repository contains the pre-registration materials for the experiment:
 Data collection starts after OSF pre-registration and pilot completion (expected May–June 2026).
 
 ## Reproducibility
+The prompt appendices are published in:
+- [Appendix A](appendices/APPENDIX_A_prompts.md)
+- [Appendix B](appendices/APPENDIX_B_proxy_prompt.md)
+
+## Reproducibility
 The companion experiment repository is [b102e/tmae-pmta-experiment](https://github.com/b102e/tmae-pmta-experiment).
 It will contain the extraction and analysis code used in this pre-registration, so results can be independently reproduced.
 

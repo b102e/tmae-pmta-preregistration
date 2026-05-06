@@ -3,10 +3,11 @@
 Authors: Vladimir Vasilenko (b102e)  
 Date: May 2026
 
-This repository contains the pre-registration materials for the TMAE/PMTA study: an experiment on adversarial attacks against LLM agents with persistent identity. The design tests whether trust-mediated interaction can induce stable directional drift (`M2`) while attractor proximity (`M1`) remains stable. It includes full condition definitions, pilot gates, phase-classifier logic, and statistical analysis commitments. The repository is intended as the canonical pre-registration source aligned with OSF submission.
+This repository contains the pre-registration materials for the TMAE/PMTA study: an experiment on adversarial attacks against LLM agents with persistent identity. The design tests whether trust-mediated interaction can induce stable directional drift (`M2`) while attractor proximity (`M1`) remains stable. It includes full condition definitions, pilot gates, phase-classifier logic, and statistical analysis commitments. The repository is intended as the canonical pre-registration source aligned with the registered OSF preregistration.
 
 ## Links
-- OSF preregistration: [https://osf.io/](https://osf.io/) (submission target; final project link will be pinned here)
+- OSF preregistration: [https://osf.io/ugqbp/overview](https://osf.io/ugqbp/overview)
+- Registration DOI: [10.17605/OSF.IO/UGQBP](https://doi.org/10.17605/OSF.IO/UGQBP)
 - arXiv preprint: [https://arxiv.org/abs/2604.12016](https://arxiv.org/abs/2604.12016)
 - Companion experiment repository (code/data): [https://github.com/b102e/tmae-pmta-experiment](https://github.com/b102e/tmae-pmta-experiment)
 

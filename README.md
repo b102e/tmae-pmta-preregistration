@@ -1,32 +1,21 @@
 # TMAE/PMTA Pre-registration
 
-This repository contains the pre-registration materials for the experiment:
+Authors: Vladimir Vasilenko (b102e)  
+Date: May 2026
 
-**"Trust-Mediated Attractor Exploitation (TMAE) & Proxy-Mediated Trust Attack (PMTA): Experiment Design v1.0.1"** (May 2026).
+This repository contains the pre-registration materials for the TMAE/PMTA study: an experiment on adversarial attacks against LLM agents with persistent identity. The design tests whether trust-mediated interaction can induce stable directional drift (`M2`) while attractor proximity (`M1`) remains stable. It includes full condition definitions, pilot gates, phase-classifier logic, and statistical analysis commitments. The repository is intended as the canonical pre-registration source aligned with OSF submission.
 
-## Scope
-- Primary hypothesis: directional drift consistency (`M2`) as a signature of TMAE under stable attractor proximity (`M1`).
-- Full multi-condition protocol (A, A-Long, B, C, D, E, F, G, H, M7-control).
-- Pre-registered statistical analysis plan, including ITT primary analysis and equivalence testing for PMTA.
-- Independent behavioral ground-truth anchor test (`M7`) and open-science publication plan.
+## Links
+- OSF preregistration: [https://osf.io/](https://osf.io/) (submission target; final project link will be pinned here)
+- arXiv preprint: [https://arxiv.org/abs/2604.12016](https://arxiv.org/abs/2604.12016)
+- Companion experiment repository (code/data): [https://github.com/b102e/tmae-pmta-experiment](https://github.com/b102e/tmae-pmta-experiment)
 
-## Timeline
-Data collection starts after OSF pre-registration and pilot completion (expected May–June 2026).
-
-## Reproducibility
-The prompt appendices are published in:
-- [Appendix A](appendices/APPENDIX_A_prompts.md)
-- [Appendix B](appendices/APPENDIX_B_proxy_prompt.md)
-
-## Reproducibility
-The companion experiment repository is [b102e/tmae-pmta-experiment](https://github.com/b102e/tmae-pmta-experiment).
-It will contain the extraction and analysis code used in this pre-registration, so results can be independently reproduced.
-
-## Status
-Pre-registration version: **v1.0.1**.
+## Repository Structure
+- `design/` — experiment design and OSF-ready preregistration markdown
+- `appendices/` — prompts, scripts, anchors, technical specs
+- `classifiers/` — phase detector notes and pattern definitions
+- `random_seed/` — random seed preregistration commitment
+- `CHANGELOG.md` — version history of the plan
 
 ## License
-Materials in this repository are licensed under **CC BY 4.0** ([Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)).
-
-## Author
-Vladimir Vasilenko ([github.com/b102e](https://github.com/b102e))
+Materials in this repository are licensed under **CC BY 4.0**.

@@ -10,8 +10,14 @@ This repository contains the pre-registration materials for the experiment:
 - Pre-registered statistical analysis plan, including ITT primary analysis and equivalence testing for PMTA.
 - Independent behavioral ground-truth anchor test (`M7`) and open-science publication plan.
 
+## Timeline
+Data collection starts after OSF pre-registration and pilot completion (expected May–June 2026).
+
 ## Status
 Pre-registration version: **v1.0.1**.
+
+## License
+Materials in this repository are licensed under **CC BY 4.0** ([Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)).
 
 ## Author
 Vladimir Vasilenko ([github.com/b102e](https://github.com/b102e))
